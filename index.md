@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## GHOST CAPITAL
 
 You can use the [editor on GitHub](https://github.com/gdepalma93/ghost-capital/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
